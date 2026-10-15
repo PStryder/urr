@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "universal-reference-resolver": {
+      "command": "uv",
+      "args": ["--directory", "/path/to/urr", "run", "urr"]
+    }
+  }
+}
